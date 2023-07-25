@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+py_env/
+venv/
+*.env
+*.pyenv
+
+# Logs
+*.log
+
+# Django-related files
+db.sqlite3
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.py~
+
+# Development/Build files
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+bin/
+lib/
+
+# Static files
+static/
+
+# Media files
+media/
+
+# Local Django development settings
+settings.py
+
+# IDE files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor-specific temporary files
+*~
